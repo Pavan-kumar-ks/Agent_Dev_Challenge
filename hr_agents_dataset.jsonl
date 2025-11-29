@@ -1,0 +1,55 @@
+{"id":"policy_001","content":"Company Leave Policy Overview: Full-time employees receive annual, sick, and casual leave. Leave year is Jan 1–Dec 31. Unused annual leave carryover is 6 days.","metadata":{"category":"HR_Policy","subtype":"Leave","name":"Leave Overview"}}
+{"id":"policy_002","content":"Annual Leave Policy: Employees get 18 paid annual leave days per year. Accrues monthly at 1.5 days. Max 6 carry-forward. Cannot combine with sick leave.","metadata":{"category":"HR_Policy","subtype":"Leave","name":"Annual Leave"}}
+{"id":"policy_003","content":"Sick Leave Policy: 12 sick leave days per year. Medical certificate required for more than 2 consecutive days. Sick leave cannot be encashed.","metadata":{"category":"HR_Policy","subtype":"Leave","name":"Sick Leave"}}
+{"id":"policy_004","content":"Casual Leave Policy: 8 days per year. Intended for unplanned needs. Cannot be combined with annual leave.","metadata":{"category":"HR_Policy","subtype":"Leave","name":"Casual Leave"}}
+{"id":"policy_005","content":"Holiday Policy: Company provides 10 fixed public holidays and 2 floating holidays. Holiday list published every December.","metadata":{"category":"HR_Policy","subtype":"Holiday","name":"Holiday Policy"}}
+{"id":"policy_006","content":"Benefits Overview: Medical insurance for employee and dependents. Life insurance coverage is 2x annual salary. Meal card ₹2,000 per month. Travel allowance ₹1,500.","metadata":{"category":"HR_Policy","subtype":"Benefits","name":"Benefits Overview"}}
+{"id":"policy_007","content":"Expense Reimbursement: Only business expenses reimbursed. Claims must be submitted within 30 days. Bills above ₹500 require manager approval.","metadata":{"category":"HR_Policy","subtype":"Reimbursement","name":"Expense Policy"}}
+{"id":"policy_008","content":"Work From Home Policy: Employees may work from home up to 8 days per month. Manager approval required. Must attend meetings and stay available.","metadata":{"category":"HR_Policy","subtype":"Remote","name":"WFH Policy"}}
+{"id":"policy_009","content":"Code of Conduct: Professional behavior required. Harassment or discrimination prohibited. Confidential information must not be shared.","metadata":{"category":"HR_Policy","subtype":"Behavior","name":"Code of Conduct"}}
+{"id":"policy_010","content":"Performance Review: Performance reviewed twice a year. Ratings range from 1 to 5. Evaluation based on goals and teamwork.","metadata":{"category":"HR_Policy","subtype":"Performance","name":"Performance Review"}}
+
+{"id":"onboard_001","content":"Onboarding Overview: First 30 days include paperwork, IT setup, HR induction, and team introduction.","metadata":{"category":"Onboarding","subtype":"Overview","name":"Onboarding Overview"}}
+{"id":"onboard_002","content":"Day 1 Checklist: Submit ID proofs, bank details, collect laptop, set up email, attend HR orientation.","metadata":{"category":"Onboarding","subtype":"Checklist","name":"Day 1 Checklist"}}
+{"id":"onboard_003","content":"IT Setup Guide: Login with temporary password, set MFA, install VPN, install tools like VSCode, Jira, and Confluence.","metadata":{"category":"Onboarding","subtype":"IT","name":"IT Setup"}}
+{"id":"onboard_004","content":"Required Documents: Aadhaar or Passport, PAN, relieving letter from previous employer, bank cheque.","metadata":{"category":"Onboarding","subtype":"Documents","name":"Required Docs"}}
+{"id":"onboard_005","content":"Training Modules: Compliance training, cybersecurity awareness, and job-specific training in LMS.","metadata":{"category":"Onboarding","subtype":"Training","name":"Mandatory Training"}}
+{"id":"onboard_006","content":"Payroll Setup: Salary processed on 30th monthly. Bank details must be updated in HR portal.","metadata":{"category":"Onboarding","subtype":"Payroll","name":"Payroll Setup"}}
+{"id":"onboard_007","content":"Team Introduction: Manager schedules intro meeting, explains product, assigns a buddy.","metadata":{"category":"Onboarding","subtype":"Team","name":"Team Introduction"}}
+{"id":"onboard_008","content":"Probation Policy: Probation period lasts 3 months. Confirmation depends on performance.","metadata":{"category":"Onboarding","subtype":"Probation","name":"Probation Policy"}}
+{"id":"onboard_009","content":"Access Management: Jira, GitHub, and internal tools access granted based on role. Requests through IT desk.","metadata":{"category":"Onboarding","subtype":"Access","name":"Access Management"}}
+{"id":"onboard_010","content":"Laptop Usage Policy: Work laptop must be used for professional tasks only. Unauthorized apps not allowed.","metadata":{"category":"Onboarding","subtype":"Rules","name":"Laptop Rules"}}
+
+{"id":"jd_001","content":"Software Developer JD: Skills required Java, Spring Boot, REST APIs, SQL, Git, Microservices.","metadata":{"category":"JobDescription","role":"Software Developer","name":"JD Software Dev"}}
+{"id":"jd_002","content":"Data Analyst JD: Skills required Python, Pandas, SQL, PowerBI, Statistics. Work includes dashboards and business analysis.","metadata":{"category":"JobDescription","role":"Data Analyst","name":"JD Data Analyst"}}
+{"id":"jd_003","content":"HR Executive JD: Skills include recruitment, onboarding, HRMS tools, communication, payroll basics.","metadata":{"category":"JobDescription","role":"HR Executive","name":"JD HR Executive"}}
+{"id":"jd_004","content":"Android Developer JD: Skills include Kotlin, Jetpack, APIs, SQLite, Android Studio.","metadata":{"category":"JobDescription","role":"Android Developer","name":"JD Android Dev"}}
+{"id":"jd_005","content":"DevOps Engineer JD: Skills include Linux, AWS, Docker, Kubernetes, CI/CD pipeline management.","metadata":{"category":"JobDescription","role":"DevOps Engineer","name":"JD DevOps"}}
+
+{"id":"resume_001","content":"Resume: Java, Spring Boot, MySQL, REST APIs, Git. 1.5 years backend experience.","metadata":{"category":"Resume","candidate":"C1"}}
+{"id":"resume_002","content":"Resume: Python, Pandas, SQL, PowerBI. 6 months data analyst internship.","metadata":{"category":"Resume","candidate":"C2"}}
+{"id":"resume_003","content":"Resume: Recruitment, HRMS tools, onboarding coordination. 1 year HR experience.","metadata":{"category":"Resume","candidate":"C3"}}
+{"id":"resume_004","content":"Resume: Kotlin, Android Studio, Retrofit, SQLite. 1 year Android experience.","metadata":{"category":"Resume","candidate":"C4"}}
+{"id":"resume_005","content":"Resume: AWS, Docker, CI/CD pipelines, Linux. 2 years DevOps experience.","metadata":{"category":"Resume","candidate":"C5"}}
+{"id":"resume_006","content":"Resume: React, NodeJS, MongoDB, JavaScript full-stack development.","metadata":{"category":"Resume","candidate":"C6"}}
+{"id":"resume_007","content":"Resume: Python, NLP, ML models, scikit-learn. Projects include spam classifier.","metadata":{"category":"Resume","candidate":"C7"}}
+{"id":"resume_008","content":"Resume: C++, DSA, algorithms. Fresh graduate.","metadata":{"category":"Resume","candidate":"C8"}}
+{"id":"resume_009","content":"Resume: SQL, Excel, Tableau, Statistics.","metadata":{"category":"Resume","candidate":"C9"}}
+{"id":"resume_010","content":"Resume: onboarding, team coordination, payroll basics. 2 years HR support.","metadata":{"category":"Resume","candidate":"C10"}}
+
+{"id":"interview_q_001","content":"Explain OOP principles.","metadata":{"category":"InterviewQuestion","role":"Software Developer","difficulty":"Medium"}}
+{"id":"interview_q_002","content":"What is a REST API?","metadata":{"category":"InterviewQuestion","role":"Software Developer","difficulty":"Easy"}}
+{"id":"interview_q_003","content":"Explain CI/CD pipeline.","metadata":{"category":"InterviewQuestion","role":"DevOps Engineer","difficulty":"Medium"}}
+{"id":"interview_q_004","content":"What is Docker?","metadata":{"category":"InterviewQuestion","role":"DevOps Engineer","difficulty":"Easy"}}
+{"id":"interview_q_005","content":"Explain difference between mean and median.","metadata":{"category":"InterviewQuestion","role":"Data Analyst","difficulty":"Easy"}}
+{"id":"interview_q_006","content":"How do you handle missing data?","metadata":{"category":"InterviewQuestion","role":"Data Analyst","difficulty":"Medium"}}
+{"id":"interview_q_007","content":"Explain the recruitment lifecycle.","metadata":{"category":"InterviewQuestion","role":"HR Executive","difficulty":"Medium"}}
+{"id":"interview_q_008","content":"How do you handle grievances?","metadata":{"category":"InterviewQuestion","role":"HR Executive","difficulty":"Medium"}}
+{"id":"interview_q_009","content":"What is an Activity in Android?","metadata":{"category":"InterviewQuestion","role":"Android Developer","difficulty":"Easy"}}
+{"id":"interview_q_010","content":"Difference between LiveData and Flow.","metadata":{"category":"InterviewQuestion","role":"Android Developer","difficulty":"Medium"}}
+
+{"id":"rubric_001","content":"Score 5: Clear and precise. Score 4: Mostly correct. Score 3: Basic. Score 2: Weak. Score 1: Incorrect.","metadata":{"category":"Rubric","type":"General"}}
+{"id":"rubric_002","content":"Software Dev Evaluation: coding understanding, problem solving, API knowledge.","metadata":{"category":"Rubric","role":"Software Developer"}}
+{"id":"rubric_003","content":"Data Analyst Evaluation: stats, cleaning, business context.","metadata":{"category":"Rubric","role":"Data Analyst"}}
+{"id":"rubric_004","content":"HR Executive Evaluation: communication, empathy, HR processes.","metadata":{"category":"Rubric","role":"HR Executive"}}
+{"id":"rubric_005","content":"Android Dev Evaluation: Android lifecycle, components, API usage.","metadata":{"category":"Rubric","role":"Android Developer"}}
