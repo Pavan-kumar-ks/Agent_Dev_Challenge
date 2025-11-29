@@ -1,9 +1,5 @@
 # Agent_Dev_Challenge
 
-Good call — I checked your Agent_Dev_Challenge GitHub repo. Based on its structure and files, here is a **draft README.md** you can copy/paste into your repo (edit as needed).
-
----
-
 ```markdown
 # Agent_Dev_Challenge
 
@@ -179,11 +175,3 @@ Inspired by many open-source AI-agent frameworks and community efforts towards m
 
 ---
 
-If you like, I can **improve** this README further by adding:  
-- a **Flow Diagram** (ASCII or Mermaid) showing agent ingestion → prompt → response  
-- a **Contributing Guide** template  
-- a **TODO / Roadmap** section  
-
-Do you want me to build that extended README for you now?
-::contentReference[oaicite:2]{index=2}
-```
